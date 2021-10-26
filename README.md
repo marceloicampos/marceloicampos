@@ -6,10 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloicampos&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-<div> 
-  ![Snake animation](https://github.com/marceloicampos/marceloicampos/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 <!--
 **marceloicampos/marceloicampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

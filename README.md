@@ -1,6 +1,6 @@
 ### Hi there 👋, My name Is Marcelo Campos
 
-<div align="center">
+<div align="justify">
   <a href="https://github.com/marceloicampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloicampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloicampos&layout=compact&langs_count=8&theme=dark"/>

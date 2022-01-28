@@ -1,4 +1,4 @@
-### Hi there 👋, My name Is Marcelo Campos
+### Hi there 👋, My name is Marcelo Campos
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloicampos/)](https://www.linkedin.com/in/marceloicampos/)
 [![website Badge](https://img.shields.io/badge/marceloicampos.com-6633cc?style=flat-square&link=https://marceloicampos.com/)](https://marceloicampos.com/)

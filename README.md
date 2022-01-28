@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloicampos/)](https://www.linkedin.com/in/marceloicampos/)
 
+[![website Badge](https://img.shields.io/badge/marceloicampos.com-6633cc?style=flat-square&link=https://marceloicampos.com/)](https://marceloicampos.com/)
+
 <div align="justify">
   <a href="https://github.com/marceloicampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloicampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
